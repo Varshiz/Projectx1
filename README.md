@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Inventory Management System (IMS)
 
 A full-stack web application built with the **MERN stack** that allows admins to manage product inventories seamlessly. Features include product creation with image uploads (via Cloudinary), quantity updates, pagination, authentication, and protected admin access.
@@ -74,3 +75,6 @@ npm run dev
 
  
 
+=======
+# Projectx1
+>>>>>>> 1a9596570080fd3e8b634dcecd4a262f00d4e919
