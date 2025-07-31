@@ -1,3 +1,5 @@
+// Hackathon Assignment 
+
 SmartStock
 
 SmartStock is a robust and scalable full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It provides a streamlined and secure platform for administrators to manage product inventories efficiently. Key functionalities include product addition with image uploads (via Cloudinary), stock quantity adjustments, JWT-based authentication, and admin-only protected routes.
