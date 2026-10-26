@@ -1,7 +1,8 @@
-<<<<<<< HEAD
-## Inventory Management System (IMS)
+// Hackathon Assignment 
 
-A full-stack web application built with the **MERN stack** that allows admins to manage product inventories seamlessly. Features include product creation with image uploads (via Cloudinary), quantity updates, pagination, authentication, and protected admin access.
+SmartStock
+
+SmartStock is a robust and scalable full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It provides a streamlined and secure platform for administrators to manage product inventories efficiently. Key functionalities include product addition with image uploads (via Cloudinary), stock quantity adjustments, JWT-based authentication, and admin-only protected routes.
 
 ---
 
@@ -13,7 +14,6 @@ A full-stack web application built with the **MERN stack** that allows admins to
   - Add product with image (via Cloudinary)
   - Update product quantity
   - Paginated product listing
--  **Dark / Light Theme Toggle**
 -  Fully responsive UI built with React + TailwindCSS
 -  Cloudinary integration for image storage
 
@@ -44,8 +44,8 @@ A full-stack web application built with the **MERN stack** that allows admins to
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ims-project.git
-cd ims-project
+git clone https://github.com/your-username/Projectx1.git
+cd Projectx1
 
 ##  Setup Backend
 
@@ -54,8 +54,8 @@ npm install
 
 ## create .env file
 PORT=8080
-MONGO_URI=your_mongo_uri
-JWT_SECRET=your_jwt_secret
+MONGO=your_mongo_uri
+SECRET_KEY=your_jwt_secret
 CLOUD_NAME=your_cloudinary_cloud_name
 CLOUD_API_KEY=your_cloudinary_api_key
 CLOUD_API_SECRET=your_cloudinary_api_secret
@@ -75,6 +75,4 @@ npm run dev
 
  
 
-=======
-# Projectx1
->>>>>>> 1a9596570080fd3e8b634dcecd4a262f00d4e919
+
