@@ -24,7 +24,7 @@ A full-stack web application built with the **MERN stack** that allows admins to
 **Frontend:**
 - React.js
 - Redux Toolkit (User & Theme management)
-- TailwindCSS
+- Tailwind CSS
 - Axios
 - React Router DOM
 
